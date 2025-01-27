@@ -9,10 +9,7 @@ url: "https://purrfectwarrior.github.io"
 # Configuración de colecciones
 collections:
   proyectos:
-    title: "Proyectos"
     output: true
-    nav_fold: true  # Permite carpetas colapsables
-    nav_order: 2  # Posición en el menú
     permalink: /docs/proyectos/:path/  # Estructura de URLs
 
 # Configuración específica de Just the Docs
@@ -20,6 +17,8 @@ just_the_docs:
   collections:
     proyectos:
       name: "Proyectos"
+      nav_fold: true  # Permite carpetas colapsables
+      nav_order: 2  # Posición en el menú
       auto_generate: true  # Genera navegación automáticamente
       sort_by: title  # Ordena por título
 
