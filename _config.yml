@@ -1,4 +1,4 @@
-title: Pagina
+title: Base de conocimiento
 author: christian vega
 description: sitio 
 
@@ -33,5 +33,5 @@ just_the_docs:
 #       has_children: true  # Permite subdocumentos
 
 aux_links:
-  Support contact:
+  Soporte técnico:
     - https://marbelvega.github.io/
