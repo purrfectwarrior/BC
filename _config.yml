@@ -1,4 +1,22 @@
 title: Pagina
 author: christian vega
 description: sitio 
-theme: minima
+
+theme: just-the-docs
+baseurl: /BC
+url: "https://purrfectwarrior.github.io"
+
+just_the_docs:
+  collections:
+    projects:
+      name: "Proyectos"
+      output: true
+      nav_order: 2  # Orden en el menú
+
+defaults:
+  - scope:
+      path: "docs/proyectos"  # Ruta de tus proyectos
+    values:
+      layout: default
+      parent: "Proyectos"
+

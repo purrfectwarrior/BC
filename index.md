@@ -1,5 +1,6 @@
 ---
-title: Base de conocimientos
+layout: home
+title: Inicio
+nav_order: 1
 ---
-
-Pagina base
+¡Bienvenido a la documentación de BC!
