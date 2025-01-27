@@ -1,5 +1,5 @@
 <header>
-
+https://just-the-docs.com/docs/navigation/main/external/
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
