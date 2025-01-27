@@ -10,7 +10,7 @@ url: "https://purrfectwarrior.github.io"
 collections:
   proyectos:
     output: true
-    permalink: /docs/proyectos/:path/  # Estructura de URLs
+    #permalink: /docs/proyectos/:path/  # Estructura de URLs
 
 # Configuración específica de Just the Docs
 just_the_docs:
@@ -23,14 +23,14 @@ just_the_docs:
       sort_by: title  # Ordena por título
 
 # Habilitar generación de categorías desde carpetas
-defaults:
-  - scope:
-      path: "docs/proyectos"
-      type: "proyectos"
-    values:
-      layout: "default"
-      has_toc: true  # Tabla de contenido automática
-      has_children: true  # Permite subdocumentos
+# defaults:
+#   - scope:
+#       path: "docs/proyectos"
+#       type: "proyectos"
+#     values:
+#       layout: "default"
+#       has_toc: true  # Tabla de contenido automática
+#       has_children: true  # Permite subdocumentos
 
 aux_links:
   Support contact:
