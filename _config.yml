@@ -7,38 +7,6 @@ baseurl: /BC
 url: "https://purrfectwarrior.github.io"
 color_scheme: dark
 
-# Configuración de colecciones
-collections:
-  proyectos:
-    output: true
-    #permalink: /docs/proyectos/:path/  # Estructura de URLs
-
-# Configuración específica de Just the Docs
-just_the_docs:
-  collections:
-    proyectos:
-      name: "Proyectos"
-      nav_fold: false  # Permite carpetas colapsables
-      search_exclude: false
-      nav_exclude: false 
-      order:
-        - index.md
-        - proyecto1.md
-        - proyecyo2.md
-      #nav_order: 2  # Posición en el menú
-      #auto_generate: true  # Genera navegación automáticamente
-      #sort_by: title  # Ordena por título
-
-# Habilitar generación de categorías desde carpetas
-# defaults:
-#   - scope:
-#       path: "docs/proyectos"
-#       type: "proyectos"
-#     values:
-#       layout: "default"
-#       has_toc: true  # Tabla de contenido automática
-#       has_children: true  # Permite subdocumentos
-
 aux_links:
   Soporte técnico:
     - https://marbelvega.github.io/
