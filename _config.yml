@@ -18,9 +18,9 @@ just_the_docs:
     proyectos:
       name: "Proyectos"
       nav_fold: true  # Permite carpetas colapsables
-      nav_order: 2  # Posición en el menú
-      auto_generate: true  # Genera navegación automáticamente
-      sort_by: title  # Ordena por título
+      # nav_order: 2  # Posición en el menú
+      # auto_generate: true  # Genera navegación automáticamente
+      # sort_by: title  # Ordena por título
 
 # Habilitar generación de categorías desde carpetas
 # defaults:
