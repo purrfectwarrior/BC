@@ -1,7 +1,7 @@
 ---
 title: "Planificación (Plan)"
 date: 2019-01-20
-nav_order: 1
+nav_order: 2
 ---
 
 Planificación
