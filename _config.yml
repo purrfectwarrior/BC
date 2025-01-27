@@ -5,6 +5,7 @@ description: sitio
 theme: just-the-docs
 baseurl: /BC
 url: "https://purrfectwarrior.github.io"
+color_scheme: dark
 
 # Configuración de colecciones
 collections:
