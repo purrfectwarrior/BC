@@ -3,8 +3,7 @@ layout: home
 title: Inicio
 nav_order: 1
 ---
-
-Ciclo de Vida del Desarrollo de Software (SDLC):
+**DevOps & SDLC
 
 Enfoque: Se centra en el desarrollo del software desde la concepción hasta la entrega final.
 Fases: Planificación, análisis, diseño, desarrollo, pruebas, implementación y mantenimiento.
@@ -66,3 +65,10 @@ Pruebas de inyección SQL
 Pruebas de CSRF
 Pruebas de clickjacking
 Pruebas de seguridad de sesiones
+
+**¿Por qué es importante la Seguridad?
+La adopción de un enfoque de seguridad aporta numerosos beneficios:
+•	Detección temprana de vulnerabilidades: Al fomentar la seguridad desde el inicio, permite identificar riesgos y debilidades potenciales antes de que el producto esté terminado, ahorrando tiempo y costes significativos en rectificaciones.
+•	Productos más seguros: Una mentalidad de "seguridad por diseño" (security-by-design) conduce a sistemas mucho más resistentes contra ciberataques.
+•	Reducción de costes: Un software lleno de vulnerabilidades supone costes de corrección, parches, e incluso potenciales demandas en caso de brechas de seguridad. 
+•	Reputación y confianza: Los clientes valoran confiar sus datos a empresas que demuestran un compromiso férreo con la seguridad.
