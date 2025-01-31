@@ -6,9 +6,6 @@ nav_order: 1
 ---
 # Pruebas estaticas SAST
 
-Stable
-{: .label .label-green }
-
 -	Configuración de variables (webconfig o similares)
 -	Escaneo y revisión de código estático 
     -	Sonarqube

@@ -3,10 +3,10 @@ title: "Operaciones y mantenimiento (Operate)"
 date: 2019-01-20
 nav_order: 8
 ---
-Mantenimiento
+# Operaciones y mantenimiento (Operate)
 En la fase de mantenimiento, entre otras tareas, el equipo corrige errores, resuelve problemas de los clientes y administra los cambios hechos en el software. Además, el equipo supervisa el rendimiento general del sistema, la seguridad y la experiencia del usuario para identificar nuevas maneras de mejorar el software existente.
 
-
+## Pruebas
 -	Nivel de acceso (Power BI y report services)
 -	SSL/TLS 1.2  o superior(activo y vigente)
 -	Autenticación (controles del lado del servidor, no permite contraseñas anteriores)
