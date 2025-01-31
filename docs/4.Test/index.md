@@ -12,9 +12,11 @@ El equipo de desarrollo combina las pruebas automáticas y manuales para comprob
 - Pruebas de seguridad móviles: Específicas para aplicaciones móviles, como pruebas de seguridad de almacenamiento local, permisos, etc.
 
 -	Escaneo y revisión de código dinámico (DAST)
+
+
     -	Burpsuite
     -	OWASP ZAP
-    -	Nikto
+    -	Nikt
     -	Gobuster
     -	Nmap
     -	Metasploit  framework – MSF
