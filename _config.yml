@@ -1,11 +1,12 @@
 title: Base de conocimiento
 author: christian vega
-description: sitio 
-
+description: Base de conocimiento para buenas parcticas con DevOps & SDLC
+logo: /assets/images/BC.png
 theme: just-the-docs
 baseurl: /BC
 url: "https://purrfectwarrior.github.io"
 color_scheme: dark
+language: es
 
 aux_links:
   Soporte técnico:

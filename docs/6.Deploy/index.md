@@ -10,3 +10,5 @@ Disponer de un entorno de compilación y de un entorno de producción diferencia
 #PRUEBA
 Escaneo de vulnerabilidades en infraestructura: Identificar vulnerabilidades en los servidores y redes.
 Configuración segura: Asegurarse de que la configuración de los servidores y aplicaciones es segura.
+
+•	Usuario de ejecución con mínimo privilegio (web server)
