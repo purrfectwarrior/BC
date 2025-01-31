@@ -8,6 +8,6 @@ Cuando los equipos desarrollan software, lo codifican y prueban en una copia dif
 Disponer de un entorno de compilación y de un entorno de producción diferenciados garantiza que los clientes puedan seguir usando el software incluso cuando se modifica o actualiza. La fase de despliegue incluye varias tareas para llevar la última copia compilada al entorno de producción, como empaquetado, configuración del entorno e instalación
 
 ## Pruebas
-Escaneo de vulnerabilidades en infraestructura: Identificar vulnerabilidades en los servidores y redes.
-Configuración segura: Asegurarse de que la configuración de los servidores y aplicaciones es segura.
--	Usuario de ejecución con mínimo privilegio (web server)
+- Escaneo de vulnerabilidades en infraestructura: Identificar vulnerabilidades en los servidores y redes.
+- Configuración segura: Asegurarse de que la configuración de los servidores y aplicaciones es segura.
+    - Usuario de ejecución con mínimo privilegio (web server)

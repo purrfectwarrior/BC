@@ -19,10 +19,8 @@ Ejecuta con cmd o terminal:
 docker run -d -p 127.0.0.1:8000:8000 opensecurity/mobile-security-framework-mobsf:latest
 ```
 
-{: .note }
-El terminal debe tener privilegios de ejecución de Docker
-
 {: .note-title }
+> {: .highlight }
 > A tomar en cuenta
 >
 > El terminal debe tener privilegios de ejecución de Docker

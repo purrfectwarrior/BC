@@ -6,4 +6,4 @@ nav_order: 1
 ---
 # Análisis de riesgos
 ## Revisión de recomendación
-Verificar que no hay contraseñas en plano
+- Verificar que no hay contraseñas en plano

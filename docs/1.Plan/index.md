@@ -10,6 +10,6 @@ El documento establece las especificaciones y define los objetivos comunes que a
 
 ## Pruebas
 
-Definición de requisitos de seguridad: Establecer los estándares de seguridad mínimos que debe cumplir la aplicación.
-Selección de herramientas y tecnologías: Elegir herramientas y tecnologías seguras para el desarrollo.
-Análisis de riesgos: Identificar las posibles amenazas y vulnerabilidades que podrían afectar a la aplicación.
+- Definición de requisitos de seguridad: Establecer los estándares de seguridad mínimos que debe cumplir la aplicación.
+- Selección de herramientas y tecnologías: Elegir herramientas y tecnologías seguras para el desarrollo.
+- Análisis de riesgos: Identificar las posibles amenazas y vulnerabilidades que podrían afectar a la aplicación.
