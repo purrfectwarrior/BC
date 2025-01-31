@@ -16,12 +16,42 @@ Fases: Planificación, análisis, diseño, desarrollo, pruebas, implementación 
 Objetivo: Crear un producto de software que cumpla con los requisitos del cliente.
 
 ## Diferencias clave:
-| Característica	| SDLC	| DevOps |
+
+| head1        | head two          | three |
 |:-------------|:------------------|:------|
-| Enfoque	| Lineal y secuencial	| Iterativo y colaborativo
-|Ritmo	| Más lento	| Más rápido y frecuente
-|Cultura	| Silos entre equipos	| Colaboración y comunicación
-|Automatización	| Menor	| Mayor
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+<table>
+  <tr>
+    <th>Característica</th>
+    <th>SDLC</th>
+    <th>DevOps</th>
+  </tr>
+  <tr>
+    <td>Enfoque</td>
+    <td>Lineal y secuencial</td>
+    <td>Iterativo y colaborativo</td>
+  </tr>
+  <tr>
+    <td>Ritmo</td>
+    <td>Más lento</td>
+    <td>Más rápido y frecuente</td>
+  </tr>
+  <tr>
+    <td>Cultura</td>
+    <td>Silos entre equipos</td>
+    <td>Colaboración y comunicación</td>
+  </tr>
+  <tr>
+    <td>Automatización</td>
+    <td>Menor</td>
+    <td>Mayor</td>
+  </tr>
+
+</table>
 
 
 ## Cómo combinar DevOps y SDLC:

@@ -1,7 +1,7 @@
 ---
-title: "mobsf"
+title: "MobSF"
 parent: "Pruebas estaticas"
-date: 2019-01-20
+date: 2025-01-31
 nav_order: 1
 ---
 # MobSF
@@ -18,8 +18,9 @@ Ejecuta con cmd o terminal:
 ```js
 docker run -d -p 127.0.0.1:8000:8000 opensecurity/mobile-security-framework-mobsf:latest
 ```
-{: .note }
 El terminal debe tener privilegios de ejecución de Docker
+{: .note }
+
 
 ## Verificación
 Abre tu navegador web y ve a http://127.0.0.1:8000
