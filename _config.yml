@@ -5,7 +5,7 @@ logo: /assets/images/BC.png
 theme: just-the-docs
 baseurl: /BC
 url: "https://purrfectwarrior.github.io"
-color_scheme: dark
+#color_scheme: dark
 language: es
 
 aux_links:
