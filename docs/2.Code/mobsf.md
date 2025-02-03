@@ -27,10 +27,14 @@ docker run -d -p 127.0.0.1:8000:8000 opensecurity/mobile-security-framework-mobs
 
 
 ## Verificación
-Abre tu navegador web y ve a http://127.0.0.1:8000
+Abre tu navegador web y ve a: http://127.0.0.1:8000
+
 Usuario: mobsf
+
 Contraseña mobsf
 
 Más información
+
 [Sitio Oficial MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+
 <a href="https://opsecx.com/index.php/product/automated-mobile-application-security-assessment-with-mobsf/">https://opsecx.com/index.php/product/automated-mobile-application-security-assessment-with-mobsf/</a>

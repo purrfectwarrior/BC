@@ -7,7 +7,9 @@ nav_order: 1
 
 ## DevOps
 Enfoque: Busca acortar el ciclo de desarrollo y entrega, fomentando la colaboración entre desarrollo y operaciones.
+
 Prácticas: Integración continua, entrega continua, automatización, monitoreo y colaboración.
+
 Objetivo: Aumentar la frecuencia y la fiabilidad de las entregas, mejorando la calidad del software y la satisfacción del cliente.
 
 ## SDLC
