@@ -14,7 +14,9 @@ Objetivo: Aumentar la frecuencia y la fiabilidad de las entregas, mejorando la c
 
 ## SDLC
 Enfoque: Se centra en el desarrollo del software desde la concepción hasta la entrega final.
+
 Fases: Planificación, análisis, diseño, desarrollo, pruebas, implementación y mantenimiento.
+
 Objetivo: Crear un producto de software que cumpla con los requisitos del cliente.
 
 ## Diferencias clave:

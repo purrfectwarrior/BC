@@ -5,6 +5,9 @@ date: 2025-01-31
 nav_order: 1
 ---
 # Pruebas estaticas SAST
+Las pruebas estaticas corresponden a la revisión del código fuente en búsqueda de bug, code smells y vulnerabilidades. Estas pruebas se realizan sin ejecutar el código, por lo que no se requiere de un ambiente de pruebas.
+Las pruebas deben ser sobre el ultimo commit y prestar atención a los ultimos archivos modificados.   
+
 ## Pruebas
 -	Configuración de variables (webconfig o similares)
     -	Data sensible encriptada
